@@ -231,6 +231,21 @@ com\.nothing\..*
 
 # OPLUS adds
 com\.oplus\..*
+cn.teddymobile.*
+com.aiunit.*
+com.oplus.*
+com.oppo.*
+oplus.*
+oppo.*
+vendor.oplus.*
+vendor.oppo.*
+vendor.coloros.*
+org.simalliance.openmobileapi.*
+core.java.com.android.*
+com\.color
+com\.color\..*
+net\.oneplus\..*
+oplus\..*
 
 # QC adds
 com.qualcomm.qti
